@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Nelson Hernandez Casanova
 
-<!--
-**nhdez/nhdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer with 10+ years of experience building scalable solutions for government and private sectors. Currently working at Falkland Islands Government, previously at DataPolaris and Synergy Information Systems.
 
-Here are some ideas to get you started:
+**🔧 Tech Stack:**
+- Backend: Ruby on Rails, C#/.NET, ASP.NET Core MVC
+- Database: PostgreSQL, Entity Framework, SQL Server
+- Cloud & Infrastructure: System architecture and deployment
+- Frontend: JavaScript, responsive CSS, Razor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🎓 Education:**
+- BSc Computing (First Class Honours) - Arden University, 2025
+- Multiple certifications in C#/.NET and database technologies
+
+**💡 About Me:**
+I'm passionate about designing performant, user-friendly applications that solve real business challenges. Specialized in database engineering, full-stack development, and building innovative solutions that streamline operations and enhance productivity.
+
+📫 Reach me at: nelson@rails.cl | 🌐 [nhdez.com](https://nhdez.com)
