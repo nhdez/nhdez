@@ -1,6 +1,6 @@
 👋 Hi, I'm Nelson Hernandez Casanova
 
-Full-stack developer with 10+ years of experience building scalable solutions for government and private sectors. Currently working at Falkland Islands Government, previously at DataPolaris and Synergy Information Systems.
+Full-stack developer with 10+ years of experience building scalable solutions for government and private sectors. Currently working at Falkland Islands Government.
 
 **🔧 Tech Stack:**
 - Backend: Ruby on Rails, C#/.NET, ASP.NET Core MVC
