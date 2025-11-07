@@ -15,4 +15,4 @@ Full-stack developer with 10+ years of experience building scalable solutions fo
 **💡 About Me:**
 I'm passionate about designing performant, user-friendly applications that solve real business challenges. Specialized in database engineering, full-stack development, and building innovative solutions that streamline operations and enhance productivity.
 
-📫 Reach me at: nelson@rails.cl | 🌐 [nhdez.com](https://nhdez.com)
+📫 Reach me at: nelson@datapolaris.com | 🌐 [nhdez.com](https://nhdez.com)
